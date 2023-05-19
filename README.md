@@ -2,7 +2,7 @@
 
 #  Tasks in AWS Bootcamp using Python on AWS Cloud9 💻
 
-Welcome to my repository! Hee you will find all the tasks completed during my participation in the AWS Bootcamp, where I primarily worked with Python using the AWS Cloud9 development enviroment.
+Welcome to my repository! Here you will find all the tasks completed during my participation in the AWS Bootcamp, where I primarily worked with Python using the AWS Cloud9 development enviroment.
 
 ## Description 📃
 
